@@ -1,6 +1,6 @@
 # Mall_Customer_Segmentation_Data_Visualisation_Project
 
-◦ Built a customer segmentation model to analyze mall customer behavior using unsupervised learning 
+ ◦ Built a customer segmentation model to analyze mall customer behavior using unsupervised learning 
  ◦ Applied K-Means clustering to group customers based on age, annual income, and spending score 
  ◦ Performed data preprocessing and exploratory analysis using Pandas and NumPy 
  ◦ Utilized visual tools like heatmaps, pair plots, elbow method, and cluster plots for data interpretation 
